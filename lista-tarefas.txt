@@ -1,0 +1,4 @@
+Tarefas do projeto:
+1. Criar o repositório e subir os primeiros commits.
+2. Organizar a documentação no README.
+3. Criar esta branch com uma nova funcionalidade.
